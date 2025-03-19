@@ -31,7 +31,7 @@ CARD_STYLE = '''
 
 # Load data function
 def load_data():
-    file_path = r"C:\Users\user\PycharmProjects\PythonProject\broadcast_qc_dashboard\Broadcast QC - Sheet30.csv"
+    file_path = os.path.join(os.path.dirname(__file__), "Broadcast QC - Sheet30.csv")
     df = pd.read_csv(file_path)
     df.columns = df.columns.str.strip()
     df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
