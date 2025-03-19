@@ -147,7 +147,7 @@ def main():
 
     # Tab 2: Performance Analysis
     with tab2:
-        st.subheader('Channel-wise Performance')
+        st.subheader('Channel Performance by Completion %')
 
         # Calculate total records per channel
         total_per_channel = filtered_df.groupby('Channel').size().reset_index(name='Total_Channel')
@@ -156,39 +156,50 @@ def main():
         complete_per_channel_iptv = filtered_df[filtered_df['Status'] == 'Complete'] \
             .groupby(['Channel', 'iptv']).size().reset_index(name='Complete_Count')
 
-        # Merge totals and complete counts
-        merged = pd.merge(complete_per_channel_iptv, total_per_channel, on='Channel', how='right')
+        # Merge totals and complete counts (this creates 'merged')
+        merged = pd.merge(
+            complete_per_channel_iptv,
+            total_per_channel,
+            on='Channel',
+            how='right'
+        ).fillna(0)
 
-        # Calculate contribution percentage (fill NaN with 0 for channels with no completions)
-        merged['Contribution %'] = (merged['Complete_Count'].fillna(0) / merged['Total_Channel']) * 100
+        # Calculate contribution percentage
+        merged['Contribution %'] = (merged['Complete_Count'] / merged['Total_Channel']) * 100
 
         # Calculate total completion % per channel for sorting
         total_completion = merged.groupby('Channel')['Contribution %'].sum().reset_index(name='Total_Completion %')
 
-        # Merge back for sorting
-        final_df = pd.merge(merged, total_completion, on='Channel').sort_values('Total_Completion %', ascending=False)
+        # Final merge for sorting
+        merged = pd.merge(merged, total_completion, on='Channel').sort_values('Complete_Count', ascending=False)
 
-        # Create the sorted stacked bar chart
-        fig = px.bar(final_df,
+        # Create visualization with increased width
+        fig = px.bar(merged,
                      x='Channel',
                      y='Contribution %',
                      color='iptv',
-                     title='Channel Performance: Completion % Contribution by IPTV',
-                     labels={'Contribution %': 'Contribution to Total Completion (%)'},
+                     title='<b>Channel Performance Breakdown</b><br><i>Sorted by Total Completion %</i>',
+                     labels={'Contribution %': 'Contribution to Completion (%)'},
                      hover_data=['Total_Channel', 'Complete_Count'],
-                     barmode='stack',
-                     color_discrete_sequence=px.colors.qualitative.Pastel)
+                     height=600,
+                     width=1400,
+                     color_discrete_sequence=px.colors.qualitative.Pastel,
+                     barmode='stack')
 
-        # Add total completion % as text above bars
-        fig.add_trace(go.Scatter(
-            x=total_completion['Channel'],
-            y=total_completion['Total_Completion %'] + 7,  # Offset for visibility
-            text=total_completion['Total_Completion %'].round(2).astype(str) + '%',
-            mode='text',
-            showlegend=False
-        ))
+        # Formatting improvements
+        fig.update_layout(
+            xaxis_tickangle=-45,
+            margin=dict(l=50, r=50, t=100, b=150),
+            legend=dict(
+                orientation="h",
+                yanchor="bottom",
+                y=-0.6,
+                xanchor="center",
+                x=0.5
+            )
+        )
 
-        st.plotly_chart(fig)
+        st.plotly_chart(fig, use_container_width=True)
 
     # Tab 3: Daily Trends
     with tab3:
