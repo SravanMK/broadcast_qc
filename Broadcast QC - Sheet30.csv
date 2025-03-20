@@ -227,7 +227,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 1, 2025",NBA,Houston Rockets,Brooklyn Nets,Space City Home Network,Home,wstr,Complete
 "Feb 1, 2025",NBA,Minnesota Timberwolves,Washington Wizards,FDSN North Extra,Home,wstr,Wrong Game
 "Feb 1, 2025",NBA,Minnesota Timberwolves,Washington Wizards,MNMT2,Away,wstr,No Game
-"Feb 1, 2025",NBA,Washington Capitals,Winnipeg Jets,Monumental Sports Network,Home,wstr,Wrong Game
+"Feb 1, 2025",NBA,Washington Capitals,Winnipeg Jets,Monumental Sports Network,Home,wstr,No Game
 "Feb 1, 2025",NBA,Oklahoma City Thunder,Sacramento Kings,FDSN OK,Home,wstr,Complete
 "Feb 2, 2025",NHL,New York Sirens,Montreal Victoire,MSG,,wstr,Wrong Game
 "Feb 2, 2025",NHL,Buffalo Sabres,New Jersey Devils,MSG Plus,Home,wstr,Complete
@@ -275,7 +275,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 4, 2025",NHL,Buffalo Sabres,Columbus Blue Jackets,FDSN OH,Away,wstr,No Game
 "Feb 4, 2025",NHL,Pittsburgh Penguins,New Jersey Devils,SN-PIT,Home,wstr,Complete
 "Feb 4, 2025",NHL,New York Islanders,Vegas Golden Knights,MSGSN2,,wstr,Wrong Game
-"Feb 4, 2025",NHL,Tampa Bay Lightning,Ottawa Senators,FDSN Sun,Home,wstr,No Game
+"Feb 4, 2025",NHL,Tampa Bay Lightning,Ottawa Senators,FDSN Sun,Home,wstr,Wrong Game
 "Feb 4, 2025",NHL,Tampa Bay Lightning,Ottawa Senators,TSN5,Away,wstr,Complete
 "Feb 4, 2025",NHL,Tampa Bay Lightning,Ottawa Senators,RDS,Away,iptv1,Incomplete
 "Feb 4, 2025",NHL,Washington Capitals,Florida Panthers,Monumental Sports Network,Home,wstr,Complete
@@ -329,9 +329,9 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 7, 2025",NHL,New York Rangers,Pittsburgh Penguins,MSG,Home,wstr,Complete
 "Feb 7, 2025",NHL,New York Rangers,Pittsburgh Penguins,SN-PIT,Away,wstr,Complete
 "Feb 7, 2025",NBA,Atlanta Hawks,Milwaukee Bucks,FDSN SE-CHA,,wstr,Wrong Game
-"Feb 7, 2025",NBA,Charlotte Hornets,San Antonio Spurs,FDSN SW-SA,Away,wstr,No Game
+"Feb 7, 2025",NBA,Charlotte Hornets,San Antonio Spurs,FDSN SW-SA,Away,wstr,Check
 "Feb 7, 2025",NBA,Washington Wizards,Cleveland Cavaliers,Monumental Sports Network,Home,wstr,Complete
-"Feb 7, 2025",NBA,Washington Wizards,Cleveland Cavaliers,FDSN OH,Away,wstr,No Game
+"Feb 7, 2025",NBA,Washington Wizards,Cleveland Cavaliers,FDSN OH,Away,wstr,Check
 "Feb 7, 2025",NBA,Brooklyn Nets,Miami Heat,YES,Home,wstr,Complete
 "Feb 7, 2025",NBA,Brooklyn Nets,Miami Heat,FDSN Sun,Away,wstr,Complete
 "Feb 7, 2025",NBA,Detroit Pistons,Philadelphia 76ers,FDSN DET,Home,wstr,Complete
@@ -364,7 +364,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 8, 2025",NHL,Florida Panthers,Ottawa Senators,TSN5,Away,wstr,No Game
 "Feb 8, 2025",NHL,Philadelphia Flyers,Pittsburgh Penguins,NBCSP,Home,wstr,Complete
 "Feb 8, 2025",NHL,Philadelphia Flyers,Pittsburgh Penguins,SN-PIT,Away,wstr,Complete
-"Feb 8, 2025",NHL,St. Louis Blues,Chicago Blackhawks,FDSN MW,Home,wstr,No Game
+"Feb 8, 2025",NHL,St. Louis Blues,Chicago Blackhawks,FDSN MW,Home,wstr,Check
 "Feb 8, 2025",NHL,St. Louis Blues,Chicago Blackhawks,CHSN,Away,wstr,Complete
 "Feb 8, 2025",NHL,Vancouver Canucks,Toronto Maple Leafs,SNP,Home,wstr,Complete
 "Feb 8, 2025",NHL,Vancouver Canucks,Toronto Maple Leafs,SNE,Away,wstr,Complete
@@ -403,7 +403,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 10, 2025",NBA,Cleveland Cavaliers,Minnesota Timberwolves,FDSN OH,Home,wstr,No Game
 "Feb 10, 2025",NBA,Orlando Magic,Atlanta Hawks,FDSN Florida,Home,wstr,Complete
 "Feb 10, 2025",NBA,Washington Wizards,San Antonio Spurs,Monumental Sports Network,Home,wstr,Complete
-"Feb 10, 2025",NBA,Washington Wizards,San Antonio Spurs,FDSN SW-SA,Away,wstr,No Game
+"Feb 10, 2025",NBA,Washington Wizards,San Antonio Spurs,FDSN SW-SA,Away,wstr,Check
 "Feb 10, 2025",NBA,Brooklyn Nets,Charlotte Hornets,YES,Home,wstr,Complete
 "Feb 10, 2025",NBA,Miami Heat,Boston Celtics,FDSN Sun,Home,wstr,Complete
 "Feb 10, 2025",NBA,Milwaukee Bucks,Golden State Warriors,FDSN WI,Home,wstr,No Game
@@ -455,15 +455,15 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 20, 2025",NBA,Philadelphia 76ers,Boston Celtics,TNT,National,wstr,Complete
 "Feb 20, 2025",NBA,Philadelphia 76ers,Boston Celtics,NBC Sports Boston,Away,wstr,No Game
 "Feb 20, 2025",NBA,Brooklyn Nets,Cleveland Cavaliers,YES,Home,wstr,Complete
-"Feb 20, 2025",NBA,Brooklyn Nets,Cleveland Cavaliers,FDSN OH,Away,wstr,No Game
+"Feb 20, 2025",NBA,Brooklyn Nets,Cleveland Cavaliers,FDSN OH,Away,wstr,Check
 "Feb 20, 2025",NBA,New York Knicks,Chicago Bulls,MSG,Home,wstr,Complete
 "Feb 20, 2025",NBA,New York Knicks,Chicago Bulls,CHSN,Away,wstr,No Game
-"Feb 20, 2025",NBA,Milwaukee Bucks,Los Angeles Clippers,FDSN WI,Home,wstr,No Game
+"Feb 20, 2025",NBA,Milwaukee Bucks,Los Angeles Clippers,FDSN WI,Home,wstr,Check
 "Feb 20, 2025",NBA,Milwaukee Bucks,Los Angeles Clippers,FDSN SoCal,Away,wstr,No Game
 "Feb 21, 2025",MLB,Boston Red Sox,Northeastern Huskies,NESN,Home,wstr,No Game
 "Feb 21, 2025",MLB,New York Yankees,Tampa Bay Rays,YES,Home,wstr,Complete
 "Feb 21, 2025",MLB,Chicago Cubs,Los Angeles Dodgers,Marquee Sports Network,Home,wstr,No Game
-"Feb 21, 2025",MLB,Chicago Cubs,Los Angeles Dodgers,SportsNet LA,Away,wstr,No Game
+"Feb 21, 2025",MLB,Chicago Cubs,Los Angeles Dodgers,SportsNet LA,Away,wstr,Check
 "Feb 21, 2025",NBA,Cleveland Cavaliers,New York Knicks,FDSN OH,Home,wstr,No Game
 "Feb 21, 2025",NBA,Cleveland Cavaliers,New York Knicks,MSG,Away,wstr,Complete
 "Feb 21, 2025",NBA,Cleveland Cavaliers,New York Knicks,ESPN,National,wstr,No Game
@@ -498,16 +498,16 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 22, 2025",NBA,Chicago Bulls,Phoenix Suns,Arizona's Family Sports,Away,wstr,Complete
 "Feb 22, 2025",NHL,Buffalo Sabres,New York Rangers,MSG,Away,wstr,Complete
 "Feb 22, 2025",NHL,Buffalo Sabres,New York Rangers,MSG 2,,wstr,No Game
-"Feb 22, 2025",NHL,Buffalo Sabres,New York Rangers,MSG Plus,Home,wstr,No Game
+"Feb 22, 2025",NHL,Buffalo Sabres,New York Rangers,MSG Plus,Home,wstr,Check
 "Feb 22, 2025",NHL,Florida Panthers,Seattle Kraken,KING 5,Away,wstr,No Game
 "Feb 22, 2025",NHL,New Jersey Devils,Dallas Stars,MSGSN,Home,wstr,Complete
-"Feb 22, 2025",NHL,Nashville Predators,Colorado Avalanche,FDSN South,Home,wstr,No Game
+"Feb 22, 2025",NHL,Nashville Predators,Colorado Avalanche,FDSN South,Home,wstr,Check
 "Feb 22, 2025",NHL,Nashville Predators,Colorado Avalanche,ALT,Away,wstr,Complete
 "Feb 22, 2025",NHL,Boston Bruins,Anaheim Ducks,NESN,Home,wstr,Complete
 "Feb 22, 2025",NHL,Boston Bruins,Anaheim Ducks,KTTV,Away,wstr,Complete
-"Feb 22, 2025",NHL,Columbus Blue Jackets,Chicago Blackhawks,FDSN OH,Home,wstr,No Game
+"Feb 22, 2025",NHL,Columbus Blue Jackets,Chicago Blackhawks,FDSN OH,Home,wstr,Check
 "Feb 22, 2025",NHL,Columbus Blue Jackets,Chicago Blackhawks,CHSN,Away,wstr,Complete
-"Feb 22, 2025",NHL,Ottawa Senators,Montréal Canadiens,TSN5,Home,wstr,No Game
+"Feb 22, 2025",NHL,Ottawa Senators,Montréal Canadiens,TSN5,Home,wstr,Check
 "Feb 22, 2025",NHL,Ottawa Senators,Montréal Canadiens,TSN2,Away,wstr,No Game
 "Feb 22, 2025",NHL,St. Louis Blues,Winnipeg Jets,KMOV-TV,Home,wstr,Complete
 "Feb 22, 2025",NHL,St. Louis Blues,Winnipeg Jets,TSN3,Away,wstr,No Game
@@ -515,17 +515,17 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 22, 2025",NHL,Toronto Maple Leafs,Carolina Hurricanes,FDSN South,Away,wstr,No Game
 "Feb 22, 2025",NBA,Philadelphia 76ers,Brooklyn Nets,NBCSP,Home,wstr,Complete
 "Feb 22, 2025",NBA,Philadelphia 76ers,Brooklyn Nets,YES,Away,wstr,Complete
-"Feb 23, 2025",NCAAB,USC (W),Illinois,FS1,National,wstr,No Game
+"Feb 23, 2025",NCAAB,USC (W),Illinois,FS1,National,wstr,Check
 "Feb 23, 2025",NHL,Washington Capitals,Edmonton Oilers,TNT,National,wstr,Complete
 "Feb 23, 2025",NHL,Washington Capitals,Edmonton Oilers,TruTV,National,wstr,No Game
 "Feb 23, 2025",NHL,Washington Capitals,Edmonton Oilers,SNW,Away,wstr,Complete
 "Feb 23, 2025",MLB,Boston Red Sox,Toronto Blue Jays,NESN,Home,wstr,No Game
-"Feb 23, 2025",MLB,Boston Red Sox,Toronto Blue Jays,SNO,,wstr,No Game
+"Feb 23, 2025",MLB,Boston Red Sox,Toronto Blue Jays,SNO,,wstr,Check
 "Feb 23, 2025",MLB,New York Yankees,Detroit Tigers,YES,Home,wstr,Complete
 "Feb 23, 2025",MLB,New York Yankees,Detroit Tigers,FDSN DET,Away,wstr,Complete
 "Feb 23, 2025",MLB,Philadelphia Phillies,Baltimore Orioles,NBCSP,Home,wstr,Complete
 "Feb 23, 2025",MLB,Pittsburgh Pirates,Minnesota Twins,SN-PIT,Home,wstr,Incomplete
-"Feb 23, 2025",MLB,St. Louis Cardinals,Houston Astros,FDSN MW,,wstr,No Game
+"Feb 23, 2025",MLB,St. Louis Cardinals,Houston Astros,FDSN MW,,wstr,Check
 "Feb 23, 2025",MLB,St. Louis Cardinals,Houston Astros,Space City Home Network,Away,wstr,Complete
 "Feb 23, 2025",MLB,New York Mets,Miami Marlins,SNY,Home,wstr,Complete
 "Feb 23, 2025",NCAAB,Seton Hall,Xavier,FS1,National,wstr,No Game
@@ -542,8 +542,8 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 23, 2025",NBA,Orlando Magic,Washington Wizards,Monumental Sports Network,Away,wstr,Complete
 "Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,TSN2,Home,wstr,No Game
 "Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,SN1,Home,wstr,Complete
-"Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,SNE,Home,wstr,No Game
-"Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,TSN4,,wstr,No Game
+"Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,SNE,Home,wstr,Check
+"Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,TSN4,,wstr,Check
 "Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,Arizona's Family Sports,Away,wstr,No Game
 "Feb 23, 2025",NBA,Toronto Raptors,Phoenix Suns,Arizona's Family 3TV,Away,wstr,Complete
 "Feb 23, 2025",NCAAB,Virginia (W),Stanford,ACC Network,National,wstr,No Game
@@ -551,13 +551,13 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 23, 2025",NHL,Detroit Red Wings,Anaheim Ducks,KCOP-13,Away,wstr,No Game
 "Feb 23, 2025",NHL,Nashville Predators,New Jersey Devils,FDSN South,Home,wstr,No Game
 "Feb 23, 2025",NHL,Nashville Predators,New Jersey Devils,MSG,Away,wstr,Complete
-"Feb 23, 2025",NHL,St. Louis Blues,Colorado Avalanche,FDSN MW,Home,wstr,No Game
+"Feb 23, 2025",NHL,St. Louis Blues,Colorado Avalanche,FDSN MW,Home,wstr,Check
 "Feb 23, 2025",NHL,St. Louis Blues,Colorado Avalanche,ALT,Away,wstr,Complete
 "Feb 23, 2025",NBA,Milwaukee Bucks,Miami Heat,FDSN WI,Home,wstr,No Game
 "Feb 23, 2025",NBA,Milwaukee Bucks,Miami Heat,FDSN Sun,Away,wstr,Incomplete
-"Feb 23, 2025",NBA,Milwaukee Bucks,Miami Heat,ESPN,National,wstr,No Game
+"Feb 23, 2025",NBA,Milwaukee Bucks,Miami Heat,ESPN,National,wstr,Check
 "Feb 23, 2025",NBA,New Orleans Pelicans,San Antonio Spurs,Gulf Coast Sports & Entertainment Network,Home,wstr,Complete
-"Feb 23, 2025",NBA,New Orleans Pelicans,San Antonio Spurs,FDSN SW-SA,Away,wstr,No Game
+"Feb 23, 2025",NBA,New Orleans Pelicans,San Antonio Spurs,FDSN SW-SA,Away,wstr,Check
 "Feb 23, 2025",NHL,Chicago Blackhawks,Toronto Maple Leafs,TSN4,Away,wstr,Complete
 "Feb 23, 2025",NHL,Chicago Blackhawks,Toronto Maple Leafs,SNO,Away,wstr,No Game
 "Feb 23, 2025",NHL,Chicago Blackhawks,Toronto Maple Leafs,SNE,Away,wstr,No Game
@@ -583,7 +583,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 24, 2025",NBA,Oklahoma City Thunder,Minnesota Timberwolves,FDSN OK,Home,wstr,Complete
 "Feb 25, 2025",MLB,Houston Astros,New York Mets,Space City Home Network,Home,wstr,Complete
 "Feb 25, 2025",MLB,Tampa Bay Rays,Philadelphia Phillies,FDSN SUN,Home,wstr,Complete
-"Feb 25, 2025",MLB,Toronto Blue Jays,St. Louis Cardinals,SN1,,wstr,No Game
+"Feb 25, 2025",MLB,Toronto Blue Jays,St. Louis Cardinals,SN1,,wstr,Check
 "Feb 25, 2025",MLB,Toronto Blue Jays,St. Louis Cardinals,SNW,Home,wstr,Complete
 "Feb 25, 2025",MLB,Toronto Blue Jays,St. Louis Cardinals,SNE,Home,wstr,Complete
 "Feb 25, 2025",MLB,Toronto Blue Jays,St. Louis Cardinals,SNO,,wstr,Incomplete
@@ -591,17 +591,17 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 25, 2025",MLB,Los Angeles Dodgers,Seattle Mariners,SportsNet LA,Home,wstr,Wrong Game
 "Feb 25, 2025",MLB,San Diego Padres,Los Angeles Angels,FDSN West,Away,wstr,Complete
 "Feb 25, 2025",NBA,Toronto Raptors,Boston Celtics,TSN1,Home,wstr,Complete
-"Feb 25, 2025",NBA,Toronto Raptors,Boston Celtics,TSN2,Home,wstr,No Game
+"Feb 25, 2025",NBA,Toronto Raptors,Boston Celtics,TSN2,Home,wstr,Check
 "Feb 25, 2025",NBA,Toronto Raptors,Boston Celtics,TSN3,Home,wstr,Complete
 "Feb 25, 2025",NBA,Toronto Raptors,Boston Celtics,NBC Sports Boston,Away,wstr,Incomplete
 "Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,NESN,Home,wstr,Incomplete
 "Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,TSN4,Away,wstr,Complete
-"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNO,Away,wstr,No Game
-"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SN1,Away,wstr,No Game
-"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNW,Away,wstr,No Game
-"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNE,Away,wstr,No Game
-"Feb 25, 2025",NHL,Buffalo Sabres,Anaheim Ducks,MSG,Home,wstr,No Game
-"Feb 25, 2025",NHL,Buffalo Sabres,Anaheim Ducks,MSG Plus,Home,wstr,No Game
+"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNO,Away,wstr,Check
+"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SN1,Away,wstr,Check
+"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNW,Away,wstr,Check
+"Feb 25, 2025",NHL,Boston Bruins,Toronto Maple Leafs,SNE,Away,wstr,Check
+"Feb 25, 2025",NHL,Buffalo Sabres,Anaheim Ducks,MSG,Home,wstr,Check
+"Feb 25, 2025",NHL,Buffalo Sabres,Anaheim Ducks,MSG Plus,Home,wstr,Check
 "Feb 25, 2025",NHL,Buffalo Sabres,Anaheim Ducks,KCOP-13,Away,wstr,No Game
 "Feb 25, 2025",NHL,Columbus Blue Jackets,Dallas Stars,FDSN OH,Home,wstr,No Game
 "Feb 25, 2025",NHL,Montréal Canadiens,Carolina Hurricanes,TSN2,Home,wstr,Complete
@@ -623,11 +623,11 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 25, 2025",NHL,Minnesota Wild,Detroit Red Wings,FDSN WI Extra,Home,wstr,No Game
 "Feb 25, 2025",NHL,Minnesota Wild,Detroit Red Wings,FDSN North,Home,wstr,No Game
 "Feb 25, 2025",NHL,Minnesota Wild,Detroit Red Wings,FDSN DET,Away,wstr,Incomplete
-"Feb 25, 2025",NHL,Nashville Predators,Florida Panthers,FSDN South,Home,wstr,No Game
+"Feb 25, 2025",NHL,Nashville Predators,Florida Panthers,FSDN South,Home,wstr,Check
 "Feb 25, 2025",NHL,Nashville Predators,Florida Panthers,SCRIPPS,Away,wstr,No Game
 "Feb 26, 2025",MLB,Detroit Tigers,Minnesota Twins,FDSN DET,Home,wstr,Complete
 "Feb 26, 2025",MLB,New York Yankees,St. Louis Cardinals,YES,Home,wstr,Complete
-"Feb 26, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SN1,,wstr,No Game
+"Feb 26, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SN1,,wstr,Check
 "Feb 26, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNW,Home,wstr,Complete
 "Feb 26, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNE,Home,wstr,Complete
 "Feb 26, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNO,,wstr,Incomplete
@@ -643,8 +643,8 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 26, 2025",NBA,Washington Wizards,Portland Trail Blazers,KUNP 16,Away,wstr,No Game
 "Feb 26, 2025",NBA,Washington Wizards,Portland Trail Blazers,KATU 2.2,Away,wstr,No Game
 "Feb 26, 2025",NCAAB,Saint Joseph's,St. Bonaventure,Peacock,National,wstr,No Game
-"Feb 26, 2025",NHL,Ottawa Senators,Winnipeg Jets,TSN5,Home,wstr,No Game
-"Feb 26, 2025",NHL,Ottawa Senators,Winnipeg Jets,TSN3,Away,wstr,No Game
+"Feb 26, 2025",NHL,Ottawa Senators,Winnipeg Jets,TSN5,Home,wstr,Check
+"Feb 26, 2025",NHL,Ottawa Senators,Winnipeg Jets,TSN3,Away,wstr,Check
 "Feb 26, 2025",NBA,Brooklyn Nets,Oklahoma City Thunder,YES,Home,wstr,Complete
 "Feb 26, 2025",NBA,Miami Heat,Atlanta Hawks,FDSN Sun,Home,wstr,Complete
 "Feb 26, 2025",NBA,Chicago Bulls,Los Angeles Clippers,CHSN,Home,wstr,Incomplete
@@ -660,16 +660,16 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Feb 27, 2025",NHL,Montréal Canadiens,San Jose Sharks,TSN2,Home,wstr,Complete
 "Feb 27, 2025",NHL,Montréal Canadiens,San Jose Sharks,NBCSCA,Away,wstr,Complete
 "Feb 27, 2025",NHL,Sioux Falls Skyforce,Texas Legends,FDSN Sun,,wstr,Wrong Game
-"Feb 27, 2025",NHL,Tampa Bay Lightning,Calgary Flames,SN1,Away,wstr,No Game
+"Feb 27, 2025",NHL,Tampa Bay Lightning,Calgary Flames,SN1,Away,wstr,Check
 "Feb 27, 2025",NHL,Tampa Bay Lightning,Calgary Flames,SNW,Away,wstr,Complete
-"Feb 27, 2025",NHL,Tampa Bay Lightning,Calgary Flames,SNE,Away,wstr,No Game
+"Feb 27, 2025",NHL,Tampa Bay Lightning,Calgary Flames,SNE,Away,wstr,Check
 "Feb 27, 2025",NHL,Washington Capitals,St. Louis Blues,Monumental Sports Network,Home,wstr,Complete
 "Feb 27, 2025",NHL,Team Harris,Team Siegrist,FDSN MW,,wstr,Wrong Game
 "Feb 27, 2025",NHL,Florida Panthers,Edmonton Oilers,SCRIPPS,Home,wstr,No Game
-"Feb 27, 2025",NHL,Florida Panthers,Edmonton Oilers,SNW,Away,wstr,No Game
+"Feb 27, 2025",NHL,Florida Panthers,Edmonton Oilers,SNW,Away,wstr,Check
 "Feb 27, 2025",NHL,Team Harris,Team Siegrist,FDSN South,,wstr,Wrong Game
 "Feb 27, 2025",NHL,Team Harris,Team Siegrist,MSG,,wstr,Wrong Game
-"Feb 27, 2025",NHL,Carolina Hurricanes,Buffalo Sabres,MSG Plus,Away,wstr,No Game
+"Feb 27, 2025",NHL,Carolina Hurricanes,Buffalo Sabres,MSG Plus,Away,wstr,Check
 "Feb 27, 2025",NBA,Orlando Magic,Golden State Warriors,FDSN Florida,Home,wstr,Complete
 "Feb 27, 2025",NBA,Milwaukee Bucks,Denver Nuggets,ALT,Away,wstr,Complete
 "Feb 27, 2025",NHL,Team Harris,Team Siegrist,FDSN South,,wstr,Wrong Game
@@ -720,15 +720,15 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 1, 2025",NHL,Buffalo Sabres,Montréal Canadiens,MSG,Home,wstr,No Game
 "Mar 1, 2025",NHL,Buffalo Sabres,Montréal Canadiens,MSG Plus,Home,wstr,No Game
 "Mar 1, 2025",NHL,Buffalo Sabres,Montréal Canadiens,TSN2,Away,wstr,Wrong Game
-"Mar 1, 2025",NHL,Carolina Hurricanes,Edmonton Oilers,FDSN South,Home,wstr,Wrong Game
-"Mar 1, 2025",NHL,Carolina Hurricanes,Edmonton Oilers,SNW,Away,wstr,No Game
-"Mar 1, 2025",NHL,Ottawa Senators,San Jose Sharks,TSN5,Home,wstr,Wrong Game
+"Mar 1, 2025",NHL,Carolina Hurricanes,Edmonton Oilers,FDSN South,Home,wstr,No Game
+"Mar 1, 2025",NHL,Carolina Hurricanes,Edmonton Oilers,SNW,Away,wstr,Check
+"Mar 1, 2025",NHL,Ottawa Senators,San Jose Sharks,TSN5,Home,wstr,No Game
 "Mar 1, 2025",NHL,Ottawa Senators,San Jose Sharks,NBCSCA,Away,wstr,No Game
 "Mar 1, 2025",NHL,Winnipeg Jets,Philadelphia Flyers,TSN3,Home,wstr,No Game
 "Mar 1, 2025",NHL,Winnipeg Jets,Philadelphia Flyers,NBCSP,Away,wstr,Complete
 "Mar 1, 2025",NBA,Detroit Pistons,Brooklyn Nets,FDSN DET,Home,wstr,Complete
 "Mar 1, 2025",NBA,Detroit Pistons,Brooklyn Nets,YES,Away,wstr,Complete
-"Mar 1, 2025",NHL,St. Louis Blues,Los Angeles Kings,FDSN MW,Home,wstr,Wrong Game
+"Mar 1, 2025",NHL,St. Louis Blues,Los Angeles Kings,FDSN MW,Home,wstr,No Game
 "Mar 1, 2025",NHL,St. Louis Blues,Los Angeles Kings,KCAL,Away,wstr,No Game
 "Mar 1, 2025",NBA,Houston Rockets,Sacramento Kings,Space City Home Network,Home,wstr,Complete
 "Mar 1, 2025",NBA,Houston Rockets,Sacramento Kings,NBCSCA,Away,wstr,No Game
@@ -737,7 +737,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 1, 2025",NCAAB,Texas,Georgia,ESPN2,National,wstr,In Progress
 "Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,TSN4,Away,wstr,Complete
 "Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,SNO,Away,wstr,Wrong Game
-"Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,SN1,Away,wstr,No Game
+"Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,SN1,Away,wstr,Wrong Game
 "Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,SNW,Away,wstr,Wrong Game
 "Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,SNE,Away,wstr,Wrong Game
 "Mar 2, 2025",NHL,Pittsburgh Penguins,Toronto Maple Leafs,TNT,National,iptv1,Complete
@@ -747,21 +747,21 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 2, 2025",MLB,Philadelphia Phillies,Baltimore Orioles,NBCSP,Home,wstr,Complete
 "Mar 2, 2025",MLB,Pittsburgh Pirates,Detroit Tigers,SN-PIT,Home,wstr,Complete
 "Mar 2, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNO,,wstr,Complete
-"Mar 2, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SN1,,wstr,No Game
+"Mar 2, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SN1,,wstr,Wrong Game
 "Mar 2, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNW,Home,wstr,Complete
 "Mar 2, 2025",MLB,Toronto Blue Jays,Philadelphia Phillies,SNE,Home,wstr,Complete
 "Mar 2, 2025",NCAAB,Michigan State,Wisconsin,US - CBS 6 (LANSING MI) HD,National,wstr,Complete
 "Mar 2, 2025",NCAAB,Michigan State,Wisconsin,US - CBS 58 (MILWAUKEE WI) HD,National,wstr,Complete
 "Mar 2, 2025",NCAAB,Texas (W),Florida,SEC Network,National,wstr,In Progress
 "Mar 2, 2025",MLB,Chicago Cubs,Cincinnati Reds,Marquee Sports Network,Home,wstr,Complete
-"Mar 2, 2025",MLB,Los Angeles Dodgers,Chicago White Sox,SportsNet LA,Home,wstr,Wrong Game
+"Mar 2, 2025",MLB,Los Angeles Dodgers,Chicago White Sox,SportsNet LA,Home,wstr,No Game
 "Mar 2, 2025",MLB,San Francisco Giants,Los Angeles Angels,FDSN West,Away,wstr,Complete
 "Mar 2, 2025",NHL,Minnesota Wild,Boston Bruins,NESN,Away,wstr,Complete
 "Mar 2, 2025",NHL,Minnesota Wild,Boston Bruins,TNT,National,iptv1,Complete
 "Mar 2, 2025",NHL,Minnesota Wild,Boston Bruins,TruTV,National,iptv1,Complete
 "Mar 2, 2025",NBA,Cleveland Cavaliers,Portland Trail Blazers,FDSN OH,Home,wstr,Wrong Game
 "Mar 2, 2025",NCAAB,Maryland (W),Ohio State,FS1,National,wstr,Complete
-"Mar 2, 2025",NHL,Carolina Hurricanes,Calgary Flames,FDSN South,Home,wstr,Wrong Game
+"Mar 2, 2025",NHL,Carolina Hurricanes,Calgary Flames,FDSN South,Home,wstr,No Game
 "Mar 2, 2025",NHL,Carolina Hurricanes,Calgary Flames,SNW,Away,wstr,Complete
 "Mar 2, 2025",NBA,Indiana Pacers,Chicago Bulls,FDSN Indiana,Home,wstr,Complete
 "Mar 2, 2025",NHL,Dallas Stars,St. Louis Blues,TNT,National,iptv1,Complete
@@ -793,7 +793,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 3, 2025",NBA,Philadelphia 76ers,Portland Trail Blazers,NBCSP,Home,wstr,Complete
 "Mar 3, 2025",NBA,Philadelphia 76ers,Portland Trail Blazers,KATU 2.2,Away,wstr,No Game
 "Mar 3, 2025",NBA,Philadelphia 76ers,Portland Trail Blazers,KUNP 16,Away,iptv1,No Game
-"Mar 3, 2025",NHL,Toronto Maple Leafs,San Jose Sharks,TSN4,Home,wstr,Wrong Game
+"Mar 3, 2025",NHL,Toronto Maple Leafs,San Jose Sharks,TSN4,Home,wstr,No Game
 "Mar 3, 2025",NHL,Toronto Maple Leafs,San Jose Sharks,NBCSCA,Away,wstr,No Game
 "Mar 3, 2025",NBA,Miami Heat,Washington Wizards,FDSN Sun,Home,wstr,Complete
 "Mar 3, 2025",NBA,Miami Heat,Washington Wizards,MNMT2,Away,wstr,No Game
@@ -913,13 +913,13 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 7, 2025",MLB,Pittsburgh Pirates,Philadelphia Phillies,SN-PIT,Home,wstr,Complete
 "Mar 7, 2025",MLB,Tampa Bay Rays,Minnesota Twins,FDSN Sun,Home,wstr,Complete
 "Mar 8, 2025",NHL,Edmonton Oilers,Dallas Stars,SNW,Home,wstr,Complete
-"Mar 8, 2025",NHL,Colorado Avalanche,Toronto Maple Leafs,SN360,Away,wstr,No Game
+"Mar 8, 2025",NHL,Colorado Avalanche,Toronto Maple Leafs,SN360,Away,wstr,Wrong Game
 "Mar 8, 2025",NHL,Colorado Avalanche,Toronto Maple Leafs,TSN4,Away,wstr,Wrong Game
 "Mar 8, 2025",NCAAB,Arizona State,Texas Tech,ESPNU,National,wstr,Wrong Game
 "Mar 8, 2025",NCAAB,Game 3 Winner vs. No. 3 Seed_Big East (W),Game 7 of 10,FS2,National,wstr,Complete
 "Mar 8, 2025",NBA,Milwaukee Bucks,Orlando Magic,FDSN Florida,Away,wstr,Complete
 "Mar 8, 2025",NBA,Toronto Raptors,Washington Wizards,TSN4,Home,wstr,Complete
-"Mar 8, 2025",NHL,Calgary Flames,Montréal Canadiens,TSN2,Away,wstr,No Game
+"Mar 8, 2025",NHL,Calgary Flames,Montréal Canadiens,TSN2,Away,wstr,Wrong Game
 "Mar 8, 2025",NBA,Boston Celtics,Los Angeles Lakers,NBCSB,Home,wstr,No Game
 "Mar 8, 2025",NCAAB,Texas,Oklahoma,SEC Network,National,wstr,In Progress
 "Mar 8, 2025",NHL,Nashville Predators,Chicago Blackhawks,CHSN,Away,wstr,Complete
@@ -976,7 +976,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 9, 2025",MLB,Los Angeles Angels,Cincinnati Reds,FDSN West,,wstr,In Progress
 "Mar 9, 2025",MLB,Los Angeles Dodgers,Oakland Athletics,SportsNet LA,,wstr,In Progress
 "Mar 9, 2025",MLB,Kansas City Royals,Milwaukee Brewers,FDSN KC,,wstr,In Progress
-"Mar 9, 2025",NHL,Vancouver Canucks,Dallas Stars,SN1,,wstr,Wrong Game
+"Mar 9, 2025",NHL,Vancouver Canucks,Dallas Stars,SN1,,wstr,No Game
 "Mar 9, 2025",MLB,Chicago Cubs,San Francisco Giants,Marquee Sports Network,,wstr,In Progress
 "Mar 9, 2025",NHL,Minnesota Wild,Pittsburgh Penguins,TruTv,,wstr,In Progress
 "Mar 9, 2025",NBA,Dallas Mavericks,Phoenix Suns,ABC,,wstr,In Progress
@@ -1000,7 +1000,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 9, 2025",NHL,Philadelphia Flyers,New Jersey Devils,TNT,,iptv1,In Progress
 "Mar 9, 2025",NBA,Oklahoma City Thunder,Denver Nuggets,ABC,,wstr,In Progress
 "Mar 9, 2025",NHL,Philadelphia Flyers,New Jersey Devils,TruTv,,iptv1,In Progress
-"Mar 9, 2025",NHL,Vancouver Canucks,Dallas Stars,SN1,Home,wstr,Wrong Game
+"Mar 9, 2025",NHL,Vancouver Canucks,Dallas Stars,SN1,Home,wstr,No Game
 "Mar 9, 2025",NBA,Minnesota Timberwolves,San Antonio Spurs,FDSN North,Home,wstr,Complete
 "Mar 9, 2025",NHL,Vancouver Canucks,Dallas Stars,SNW,Home,wstr,Complete
 "Mar 9, 2025",NBA,Milwaukee Bucks,Cleveland Cavaliers,ESPN,National,wstr,Complete
@@ -1050,13 +1050,13 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 10, 2025",NBA,Toronto Raptors,Washington Wizards,SN1,Home,wstr,Complete
 "Mar 10, 2025",NBA,Toronto Raptors,Washington Wizards,SNP,Home,wstr,Complete
 "Mar 10, 2025",NBA,Toronto Raptors,Washington Wizards,Monumental Sports Network,Away,wstr,Complete
-"Mar 10, 2025",NHL,Ottawa Senators,Detroit Red Wings,TSN5,Home,wstr,No Game
+"Mar 10, 2025",NHL,Ottawa Senators,Detroit Red Wings,TSN5,Home,wstr,Wrong Game
 "Mar 10, 2025",NHL,Ottawa Senators,Detroit Red Wings,FDSN DET,Away,wstr,Complete
 "Mar 10, 2025",NBA,Oklahoma City Thunder,Denver Nuggets,FDSN OK,Home,wstr,Complete
 "Mar 10, 2025",NBA,Oklahoma City Thunder,Denver Nuggets,ALT,Away,wstr,Complete
 "Mar 10, 2025",NBA,Chicago Bulls,Indiana Pacers,CHSN,Home,wstr,Complete
 "Mar 10, 2025",NBA,Houston Rockets,Orlando Magic,Space City Home Network,Home,wstr,Complete
-"Mar 10, 2025",NBA,Memphis Grizzlies,Phoenix Suns,FDSN SE-MEM,Home,wstr,Wrong Game
+"Mar 10, 2025",NBA,Memphis Grizzlies,Phoenix Suns,FDSN SE-MEM,Home,wstr,No Game
 "Mar 10, 2025",NCAAB,Semifinal 2_CAA,Game 12 of 13​,CBS Sports Network,National,wstr,In Progress
 "Mar 10, 2025",NBA,San Antonio Spurs,Dallas Mavericks,KENS,Home,wstr,Complete
 "Mar 10, 2025",NCAAB,#1 Seed vs. Game 6 Winner_West Coast,Game 8 of 10,ESPN,National,wstr,In Progress
@@ -1100,7 +1100,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 11, 2025",NHL,San Jose Sharks,Nashville Predators,FDSN South,,iptv1,No Game
 "Mar 12, 2025",NCAAB,Davidson vs. Richmond,Game 1 of 14,USA Network,National,wstr,Incomplete
 "Mar 12, 2025",NCAAB,Iowa State vs. Cincinnati,Game 5 of 15,ESPN,National,wstr,Complete
-"Mar 12, 2025",NCAAB,Iowa State vs. Cincinnati,Game 5 of 15,ESPN2,National,iptv1,Wrong Game
+"Mar 12, 2025",NCAAB,Iowa State vs. Cincinnati,Game 5 of 15,ESPN2,National,iptv1,No Game
 "Mar 12, 2025",MLB,Detroit Tigers,Tampa Bay Rays,FDSN DET,Home,wstr,Complete
 "Mar 12, 2025",NCAAB,Rhode Island vs. Fordham,Game 2 of 14,USA Network,National,wstr,Complete
 "Mar 12, 2025",MLB,Oakland Athletics,Arizona Diamondbacks,NBCSCA,Home,wstr,Complete
@@ -1175,7 +1175,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 13, 2025",NCAAB,Game 3 Winner vs. UCONN,Game 7 of 10,FS1,National,wstr,In Progress
 "Mar 13, 2025",NCAAB,Colorado State vs. Winner First Round #2,Game 6 of 10,CBS Sports Network,National,iptv1,In Progress
 "Mar 13, 2025",MLB,Seattle Mariners,Arizona Diamondbacks,ROOT-NW,Home,wstr,No Game
-"Mar 13, 2025",NHL,San Jose Sharks,Chicago Blackhawks,NBCSCA,Home,wstr,No Game
+"Mar 13, 2025",NHL,San Jose Sharks,Chicago Blackhawks,NBCSCA,Home,wstr,Check
 "Mar 13, 2025",NHL,San Jose Sharks,Chicago Blackhawks,CHSN,Away,wstr,Complete
 "Mar 13, 2025",NHL,Los Angeles Kings,Washington Capitals,FDSN West,Home,wstr,Complete
 "Mar 14, 2025",NCAAB,VCU vs. Winner of Game 4,Game 8 of 14,USA Network,National,wstr,Incomplete
@@ -1205,7 +1205,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 14, 2025",NBA,Minnesota Timberwolves,Orlando Magic,FDSN North,Home,wstr,Incomplete
 "Mar 14, 2025",NHL,Winnipeg Jets,Dallas Stars,TSN3,Home,iptv1,Complete
 "Mar 14, 2025",NCAAB,Winner of Game 11 vs Winner of Game 12,Game 14 of 15,ESPN,National,wstr,In Progress
-"Mar 14, 2025",NCAAB,Winner of Game 11 vs Winner of Game 12,Game 14 of 15,ESPN2,National,iptv1,No Game
+"Mar 14, 2025",NCAAB,Winner of Game 11 vs Winner of Game 12,Game 14 of 15,ESPN2,National,iptv1,Wrong Game
 "Mar 14, 2025",NCAAB,Game 4 Winner vs Game 6 Winner_MAAC,Game 8 of 9,ESPNews,National,wstr,In Progress
 "Mar 14, 2025",NCAAB,Game 5 Winner vs. UAB,Game 9 of 12,ESPNU,National,wstr,Complete
 "Mar 14, 2025",NCAAB,UC San Diego vs. Game 3 Winner _Big West,Game 5 of 7,ESPN2,National,wstr,Wrong Game
@@ -1222,7 +1222,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 14, 2025",NBA,Phoenix Suns,Sacramento Kings,Arizona's Family Sports,Home,wstr,Complete
 "Mar 14, 2025",NHL,Anaheim Ducks,Nashville Predators,KCOP-13,Home,iptv1,Complete
 "Mar 14, 2025",NHL,Seattle Kraken,Utah Hockey Club,KONG,Home,iptv1,Incomplete
-"Mar 14, 2025",NHL,Seattle Kraken,Utah Hockey Club,Utah16,Away,iptv1,Wrong Game
+"Mar 14, 2025",NHL,Seattle Kraken,Utah Hockey Club,Utah16,Away,iptv1,No Game
 "Mar 14, 2025",NCAAB,Utah State vs. Winner First Round #3,Game 7 of 10,CBS Sports Network,National,iptv1,In Progress
 "Mar 15, 2025",NHL,Buffalo Sabres,Vegas Golden Knights,MSG Plus,Home,wstr,No Game
 "Mar 15, 2025",MLB,Pittsburgh Pirates,Baltimore Orioles,SN-PIT,Home,wstr,Complete
@@ -1288,7 +1288,7 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 17, 2025",NHL,Tampa Bay Lightning,Philadelphia Flyers,FDSN Sun,Home,wstr,Wrong Game
 "Mar 17, 2025",NHL,Tampa Bay Lightning,Philadelphia Flyers,NBCSP,Away,wstr,Complete
 "Mar 17, 2025",NBA,New York Knicks,Miami Heat,MSG,Home,wstr,Complete
-"Mar 17, 2025",NHL,Toronto Maple Leafs,Calgary Flames,TSN4,Home,wstr,Wrong Game
+"Mar 17, 2025",NHL,Toronto Maple Leafs,Calgary Flames,TSN4,Home,wstr,No Game
 "Mar 17, 2025",NHL,Toronto Maple Leafs,Calgary Flames,SNW,Away,wstr,No Game
 "Mar 17, 2025",NBA,New Orleans Pelicans,Detroit Pistons,Gulf Coast Sports & Entertainment Network,Home,iptv1,Complete
 "Mar 17, 2025",NBA,Minnesota Timberwolves,Indiana Pacers,FDSN Indiana,Away,wstr,Complete
@@ -1304,29 +1304,44 @@ Date,League,Home Team,Away Team,Channel,Network,iptv,Status
 "Mar 17, 2025",NBA,Phoenix Suns,Toronto Raptors,Arizona's Family 3TV,Home,wstr,Complete
 "Mar 17, 2025",NBA,Phoenix Suns,Toronto Raptors,Arizona's Family Sports,Home,wstr,Complete
 "Mar 17, 2025",NBA,Los Angeles Lakers,Charlotte Hornets,Spectrum SportsNet,Home,wstr,Complete
-,MLB,New York Yankees,Boston Red Sox,YES,Home,wstr,No Game
-,MLB,Pittsburgh Pirates,Philadelphia Phillies,SN-PIT,Home,wstr,
-,MLB,Cincinnati Reds,Los Angeles Angels,FDSN OH,Home,iptv1,
-,MLB,Houston Astros,Washington Nationals,Space City Home Network,Home,wstr,
-,NHL,New York Rangers,Calgary Flames,MSG,Home,wstr,
-,NHL,New York Rangers,Calgary Flames,SNW,Away,wstr,
-,NHL,Washington Capitals,Detroit Red Wings,Monumental Sports Network,Home,wstr,
-,NHL,Washington Capitals,Detroit Red Wings,FDSN DET,Away,wstr,
-,NHL,Pittsburgh Penguins,New York Islanders,SN-PIT,Home,wstr,
-,NHL,Pittsburgh Penguins,New York Islanders,MSGSN,Away,wstr,
-,NHL,Montreal Canadiens,Ottawa Senators,TSN2,Home,wstr,
-,NHL,Montreal Canadiens,Ottawa Senators,RDS,Home,wstr,
-,NHL,Montreal Canadiens,Ottawa Senators,TSN5,Away,wstr,
-,NBA,Boston Celtics,Brooklyn Nets,NBCSB,Home,wstr,
-,NHL,Dallas Stars,Anaheim Ducks,KCOP-13,Away,iptv1,
-,NHL,Chicago Blackhawks,Seattle Kraken,CHSN,Home,wstr,
-,NHL,Chicago Blackhawks,Seattle Kraken,KONG,Away,iptv1,
-,NHL,Edmonton Oilers,Utah Hockey Club,SNW,Home,wstr,
-,NHL,Edmonton Oilers,Utah Hockey Club,Utah16,Away,iptv1,
-,MLB,San Francisco Giants,San Diego Padres,NBCSBA+,Home,iptv1,
-,NBA,Golden State Warriors,Milwaukee Bucks,NBCSBA,Home,wstr,
-,NBA,Portland Trail Blazers,Washington Wizards,Monumental Sports Network,Away,wstr,
-,NHL,Vancouver Canucks,Winnipeg Jets,SNP,Home,wstr,
-,NHL,Vancouver Canucks,Winnipeg Jets,TSN3,Away,iptv1,
-,NBA,Los Angeles Lakers,Milwaukee Bucks,Spectrum SportsNet,Home,wstr,
-,MLB,Chicago Cubs,Los Angeles Dodgers,Marquee Sports Network,Home,wstr,
+"Mar 18, 2025",MLB,New York Yankees,Boston Red Sox,YES,Home,wstr,No Game
+"Mar 18, 2025",MLB,Pittsburgh Pirates,Philadelphia Phillies,SN-PIT,Home,wstr,Complete
+"Mar 18, 2025",MLB,Cincinnati Reds,Los Angeles Angels,FDSN OH,Home,iptv1,No Game
+"Mar 18, 2025",MLB,Houston Astros,Washington Nationals,Space City Home Network,Home,wstr,Complete
+"Mar 18, 2025",NHL,New York Rangers,Calgary Flames,MSG,Home,wstr,No Game
+"Mar 18, 2025",NHL,New York Rangers,Calgary Flames,SNW,Away,wstr,No Game
+"Mar 18, 2025",NHL,Washington Capitals,Detroit Red Wings,Monumental Sports Network,Home,wstr,Complete
+"Mar 18, 2025",NHL,Washington Capitals,Detroit Red Wings,FDSN DET,Away,wstr,In Progress
+"Mar 18, 2025",NHL,Pittsburgh Penguins,New York Islanders,SN-PIT,Home,wstr,Complete
+"Mar 18, 2025",NHL,Pittsburgh Penguins,New York Islanders,MSGSN,Away,wstr,No Game
+"Mar 18, 2025",NHL,Montreal Canadiens,Ottawa Senators,TSN2,Home,wstr,Complete
+"Mar 18, 2025",NHL,Montreal Canadiens,Ottawa Senators,RDS,Home,wstr,Complete
+"Mar 18, 2025",NHL,Montreal Canadiens,Ottawa Senators,TSN5,Away,wstr,Complete
+"Mar 18, 2025",NBA,Boston Celtics,Brooklyn Nets,NBCSB,Home,wstr,Complete
+"Mar 18, 2025",NHL,Dallas Stars,Anaheim Ducks,KCOP-13,Away,iptv1,In Progress
+"Mar 18, 2025",NHL,Chicago Blackhawks,Seattle Kraken,CHSN,Home,wstr,Complete
+"Mar 18, 2025",NHL,Chicago Blackhawks,Seattle Kraken,KONG,Away,iptv1,Complete
+"Mar 18, 2025",NHL,Edmonton Oilers,Utah Hockey Club,SNW,Home,wstr,Incomplete
+"Mar 18, 2025",NHL,Edmonton Oilers,Utah Hockey Club,Utah16,Away,iptv1,No Game
+"Mar 18, 2025",MLB,San Francisco Giants,San Diego Padres,NBCSBA+,Home,iptv1,Complete
+"Mar 18, 2025",NBA,Golden State Warriors,Milwaukee Bucks,NBCSBA,Home,wstr,Complete
+"Mar 18, 2025",NBA,Portland Trail Blazers,Washington Wizards,Monumental Sports Network,Away,wstr,Wrong Game
+"Mar 18, 2025",NHL,Vancouver Canucks,Winnipeg Jets,SNP,Home,wstr,No Game
+"Mar 18, 2025",NHL,Vancouver Canucks,Winnipeg Jets,TSN3,Away,iptv1,In Progress
+"Mar 18, 2025",NBA,Los Angeles Lakers,Milwaukee Bucks,Spectrum SportsNet,Home,wstr,Complete
+"Mar 18, 2025",MLB,Chicago Cubs,Los Angeles Dodgers,Marquee Sports Network,Home,wstr,Complete
+"Mar 19, 2025",NHL,Toronto Maple Leafs,Colorado Avalanche,TSN4,Home,wstr,Wrong Game
+"Mar 19, 2025",NHL,Toronto Maple Leafs,Colorado Avalanche,TNT (East),National,wstr,Complete
+"Mar 19, 2025",NBA,Indiana Pacers,Dallas Mavericks,FDSN Indiana,Home,wstr,Complete
+"Mar 19, 2025",NBA,Indiana Pacers,Dallas Mavericks,WTHR,Home,iptv1,No Game
+"Mar 19, 2025",NBA,Orlando Magic,Houston Rockets,FDSN Florida,Home,wstr,Complete
+"Mar 19, 2025",NBA,Miami Heat,Detroit Pistons,FDSN Sun,Home,wstr,Complete
+"Mar 19, 2025",NBA,Minnesota Timberwolves,New Orleans Pelicans,FDSN North,Home,wstr,Complete
+"Mar 19, 2025",NBA,Oklahoma City Thunder,Philadelphia 76ers,FDSN OK,Home,wstr,Complete
+"Mar 19, 2025",NBA,Utah Jazz,Washington Wizards,KJZZ,Home,iptv1,Complete
+"Mar 19, 2025",NBA,Utah Jazz,Washington Wizards,Monumental Sports Network,Away,wstr,Complete
+"Mar 19, 2025",NHL,Minnesota Wild,Seattle Kraken,TNT (East),National,wstr,In Progress
+"Mar 19, 2025",NBA,Phoenix Suns,Chicago Bulls,Arizona's Family 3TV,Home,wstr,Complete
+"Mar 19, 2025",NBA,Phoenix Suns,Chicago Bulls,Arizona's Family Sports,Home,wstr,Complete
+"Mar 19, 2025",NBA,Sacramento Kings,Cleveland Cavaliers,NBCSCA,Home,wstr,Wrong Game
+"Mar 19, 2025",NBA,Los Angeles Lakers,Denver Nuggets,Spectrum SportsNet,Home,wstr,In Progress
